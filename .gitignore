@@ -1,0 +1,8 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local environment secrets
+.env
+.env.*
+!.env.example
